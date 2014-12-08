@@ -1,5 +1,5 @@
 *** Settings ***
-Resource          test_ios_todo_resource.txt
+Resource          test_ios_todo_resource.robot
 
 *** Test Cases ***
 Should contain title
