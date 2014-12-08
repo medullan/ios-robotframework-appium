@@ -2,11 +2,11 @@
 Library           AppiumLibrary
 
 *** Variables ***
-${REMOTE_URL}     http://localhost:4723/wd/hub
-${PLATFORM_NAME}    iOS
-${PLATFORM_VERSION}    8.1
-${DEVICE_NAME}    iPhone Simulator
-${APP_LOCATION}      /Users/horaceheaven/.jenkins/jobs/FunctionalTesting/workspace/build/Debug-iphoneos/Todo.app
+${REMOTE_URL}
+${PLATFORM_NAME}
+${PLATFORM_VERSION}
+${DEVICE_NAME}
+${APP_LOCATION}
 
 *** Keywords ***
 Open App
