@@ -6,7 +6,7 @@ ${REMOTE_URL}     http://localhost:4723/wd/hub
 ${PLATFORM_NAME}    iOS
 ${PLATFORM_VERSION}    8.1
 ${DEVICE_NAME}    iPhone Simulator
-${APP_LOCATION}
+${APP_LOCATION}      ../build/Debug-iphoneos/Todo.app
 
 *** Keywords ***
 Open App
