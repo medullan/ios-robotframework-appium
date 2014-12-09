@@ -8,18 +8,18 @@ Prerequisites
 
 Ensure that the following are installed before proceeding:
 
-  - Robotframework + ride (using easy install or pip)
+  - **Robotframework + ride (using easy install or pip)**
 
  ```sh
 pip install robotframework-ride
 easy_install robotframework-ride
 ```  
-  -  appium library for robotframework
+  -  **appium library for robotframework**
      ```sh
    pip install robotframework-appiumlibrary  
 ```
 
-  - appium
+  - **appium**
 
  ```sh
  brew install node
